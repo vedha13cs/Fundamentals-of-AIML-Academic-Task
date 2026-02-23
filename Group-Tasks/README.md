@@ -2,6 +2,7 @@
 
 This folder contains academic group projects completed as part of the Fundamentals of AI & ML coursework.
 These tasks focus on practical understanding, system architecture, and real-world implementation of AI and Big Data concepts.
+
 ---
 
 ## 📘 Group Task 01 
